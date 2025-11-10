@@ -1,0 +1,46 @@
+[
+  {
+    "url": "https://www.realtor.com/realestateandhomes-detail/4368-Seville-St_Las-Vegas_NV_89121_M14226-64517",
+    "status": "sold",
+    "id": "1422664517",
+    "soldOn": "2022-06-08",
+    "listPrice": 485000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2752,
+    "year_built": 1975,
+    "address": {
+      "street": "4368 Seville St",
+      "locality": "Las Vegas",
+      "region": "NV",
+      "postalCode": "89121"
+    },
+    "coordinates": {
+      "latitude": 36.110005,
+      "longitude": -115.077626
+    },
+    "nearbySchools": [
+      {
+        "name": "William E Ferron Elementary School",
+        "rating": 5,
+        "distance_in_miles": 0.3
+      },
+      {
+        "name": "C W Woodbury Middle School",
+        "rating": 2,
+        "distance_in_miles": 0.8
+      }
+    ],
+    "local": {
+      "flood": {
+        "flood_factor_severity": "minimal"
+      },
+      "wildfire": {
+        "fire_factor_severity": "Minimal"
+      }
+    },
+    "history": [],
+    "taxHistory": [],
+    "floorplans": []
+  }
+]
