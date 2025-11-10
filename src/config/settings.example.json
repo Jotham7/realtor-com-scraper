@@ -1,0 +1,15 @@
+{
+  "mode": "BUY",
+  "maxItems": 50,
+  "includeFloorplans": true,
+  "includeNearbySchools": true,
+  "proxy": {
+    "enabled": false,
+    "http": "",
+    "https": ""
+  },
+  "inputFile": "data/input.sample.json",
+  "outputFile": "data/output.sample.json",
+  "logLevel": "info",
+  "requestTimeoutMs": 15000
+}
